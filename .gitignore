@@ -133,6 +133,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+data/lives
+data/videos
 
 # Spyder project settings
 .spyderproject
